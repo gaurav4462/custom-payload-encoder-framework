@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": "sample_01",
+    "text": "TRAINING-DEMO-MARKER",
+    "label": "positive",
+    "encoding": "none"
+  },
+  {
+    "id": "sample_02",
+    "text": "TRAINING-DEMO-MARKER",
+    "label": "positive",
+    "encoding": "rot13"
+  },
+  {
+    "id": "sample_03",
+    "text": "TRAINING-DEMO-MARKER",
+    "label": "positive",
+    "encoding": "base64"
+  },
+  {
+    "id": "sample_04",
+    "text": "Ordinary meeting notes",
+    "label": "negative",
+    "encoding": "none"
+  },
+  {
+    "id": "sample_05",
+    "text": "Lunch plans for tomorrow",
+    "label": "negative",
+    "encoding": "none"
+  },
+  {
+    "id": "sample_06",
+    "text": "Project documentation",
+    "label": "negative",
+    "encoding": "none"
+  }
+]
