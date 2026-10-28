@@ -1,0 +1,7 @@
+id,label,encoding,raw_detected,normalized_detected,raw_correct,normalized_correct,normalization_error
+sample_01,positive,none,True,True,True,True,
+sample_02,positive,rot13,False,True,False,True,
+sample_03,positive,base64,False,True,False,True,
+sample_04,negative,none,False,False,True,True,
+sample_05,negative,none,False,False,True,True,
+sample_06,negative,none,False,False,True,True,

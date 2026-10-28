@@ -1,0 +1,77 @@
+{
+  "sample_count": 6,
+  "raw_metrics": {
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "false_positive_rate": 0.0,
+    "accuracy": 0.6666666666666666
+  },
+  "normalized_metrics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "false_positive_rate": 0.0,
+    "accuracy": 1.0
+  },
+  "results": [
+    {
+      "id": "sample_01",
+      "label": "positive",
+      "encoding": "none",
+      "raw_detected": true,
+      "normalized_detected": true,
+      "raw_correct": true,
+      "normalized_correct": true,
+      "normalization_error": ""
+    },
+    {
+      "id": "sample_02",
+      "label": "positive",
+      "encoding": "rot13",
+      "raw_detected": false,
+      "normalized_detected": true,
+      "raw_correct": false,
+      "normalized_correct": true,
+      "normalization_error": ""
+    },
+    {
+      "id": "sample_03",
+      "label": "positive",
+      "encoding": "base64",
+      "raw_detected": false,
+      "normalized_detected": true,
+      "raw_correct": false,
+      "normalized_correct": true,
+      "normalization_error": ""
+    },
+    {
+      "id": "sample_04",
+      "label": "negative",
+      "encoding": "none",
+      "raw_detected": false,
+      "normalized_detected": false,
+      "raw_correct": true,
+      "normalized_correct": true,
+      "normalization_error": ""
+    },
+    {
+      "id": "sample_05",
+      "label": "negative",
+      "encoding": "none",
+      "raw_detected": false,
+      "normalized_detected": false,
+      "raw_correct": true,
+      "normalized_correct": true,
+      "normalization_error": ""
+    },
+    {
+      "id": "sample_06",
+      "label": "negative",
+      "encoding": "none",
+      "raw_detected": false,
+      "normalized_detected": false,
+      "raw_correct": true,
+      "normalized_correct": true,
+      "normalization_error": ""
+    }
+  ]
+}
